@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    color: #002460;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Landing{
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+
+.Landing__section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Landing__section_blue{
+    background-color: #002460;
+    color: #ffffff;
+}
+
+
+.section{
+    width: 760px;
+    padding: 56px 0 56px 0;
+
+}
+
+
+.section_title{
+    font-size: 32px;
+    font-view: 700px;
+
+}
