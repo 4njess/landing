@@ -8,6 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="224,150,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="319,140,0,0" VerticalAlignment="Top" Height="49"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="458,150,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
